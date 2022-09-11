@@ -1,2 +1,2 @@
  # Homeworks
- Patika.dev ödevleri [patika.dev](https://www.patika.dev/tr)
+ Patika.dev Frontend Web Patikası ödevleri [patika.dev](https://www.patika.dev/tr)
