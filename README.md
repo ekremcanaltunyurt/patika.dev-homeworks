@@ -6,3 +6,6 @@
  
  ### 1998 Google Homepage Ödevi
  [1998 Google](https://eca-google1998.netlify.app/)
+
+### Google Homepage
+[Google Homepage](https://eca-googlehomepage.netlify.app/)
